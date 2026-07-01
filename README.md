@@ -23,9 +23,13 @@
 https://youtu.be/2H8e8zFij4A?si=V2V2YgyBpe7cFVhp  
 
 **Documentación técnica profesional:**  
-[Ver documentación técnica profesional](docs/MichaelRobles_20250845_VPN-Fortigate-WindowsClient-To-Site_Documentacion_Tecnica_Profesional.docx)  
+[Ver documentación técnica profesional](docs/Documentacion%20Tecnica%20Profesiona.pdf)
 
-**Ubicación directa:** `docs/MichaelRobles_20250845_VPN-Fortigate-WindowsClient-To-Site_Documentacion_Tecnica_Profesional.docx`
+Se encuentra directamente en la siguiente ubicación:
+
+```text
+docs/Documentacion Tecnica Profesional
+```
 
 ---
 
@@ -474,12 +478,12 @@ La conectividad debe comprobarse con respuestas exitosas desde Windows hacia PC-
 
 La documentación completa está disponible en el siguiente enlace interno del repositorio:
 
-[Ver documentación técnica profesional](docs/MichaelRobles_20250845_VPN-Fortigate-WindowsClient-To-Site_Documentacion_Tecnica_Profesional.docx)
+[Ver documentación técnica profesional](docs/Documentacion%20Tecnica%20Profesiona.pdf)
 
 También se encuentra directamente en la siguiente ubicación:
 
 ```text
-docs/MichaelRobles_20250845_VPN-Fortigate-WindowsClient-To-Site_Documentacion_Tecnica_Profesional.docx
+docs/Documentacion Tecnica Profesional
 ```
 
 ---
