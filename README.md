@@ -164,7 +164,6 @@ El cliente VPN no tiene que usar una IP del mismo rango de PC-B. En este diseño
 
 ```text
 VPN-Fortigate-WindowsClient-To-Site/
-├── 1.txt
 ├── README.md
 ├── docs/
 │   └── MichaelRobles_20250845_VPN-Fortigate-WindowsClient-To-Site_Documentacion_Tecnica_Profesional.docx
@@ -183,10 +182,6 @@ VPN-Fortigate-WindowsClient-To-Site/
 │   ├── 12_tracert_windows_a_pc_b_repetida.png
 │   ├── 13_ping_pc_b_a_cliente_vpn.png
 │   └── 14_trace_pc_b_a_cliente_vpn.png
-└── scripts/
-    ├── ISP_config.txt
-    ├── SW-A_config.txt
-    └── SW-B_config.txt
 ```
 
 ---
