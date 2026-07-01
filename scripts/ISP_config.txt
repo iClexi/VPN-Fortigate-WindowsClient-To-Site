@@ -1,0 +1,21 @@
+enable
+configure terminal
+
+hostname ISP
+no ip domain-lookup
+ip routing
+
+interface gigabitEthernet0/0
+ description Hacia SW-A / LAN A / Cliente Windows
+ ip address 20.25.45.1 255.255.255.0
+ no shutdown
+exit
+
+interface gigabitEthernet0/1
+ description Hacia FortiGate port1 / WAN_HACIA_ISP
+ ip address 20.25.8.45 255.255.255.252
+ no shutdown
+exit
+
+end
+write memory

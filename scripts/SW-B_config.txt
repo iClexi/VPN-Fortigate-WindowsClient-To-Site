@@ -1,0 +1,27 @@
+enable
+configure terminal
+
+hostname SW-B
+no ip domain-lookup
+
+vlan 20
+ name LAN_B_INTERNA
+exit
+
+interface gigabitEthernet0/0
+ description Hacia FortiGate port3 / LAN_B_INTERNA
+ switchport mode access
+ switchport access vlan 20
+ no shutdown
+exit
+
+interface gigabitEthernet0/1
+ description Hacia PC-B / VPCS LAN B
+ switchport mode access
+ switchport access vlan 20
+ spanning-tree portfast
+ no shutdown
+exit
+
+end
+write memory
