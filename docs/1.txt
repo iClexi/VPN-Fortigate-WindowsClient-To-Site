@@ -1,9 +1,0 @@
-Michael Robles
-Matrícula: 20250845 / 2025-0845
-Práctica: VPN Client-To-Site FortiGate con Windows Server
-
-Repositorio de GitHub:
-https://github.com/iClexi/VPN-Fortigate-WindowsClient-To-Site
-
-Video demostrativo en YouTube:
-https://youtu.be/2H8e8zFij4A?si=V2V2YgyBpe7cFVhp
