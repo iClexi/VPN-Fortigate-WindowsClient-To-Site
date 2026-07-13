@@ -23,12 +23,12 @@
 https://youtu.be/2H8e8zFij4A?si=V2V2YgyBpe7cFVhp  
 
 **Documentación técnica profesional:**  
-[Ver documentación técnica profesional](docs/Documentacion%20Tecnica%20Profesiona.pdf)
+[Ver documentación técnica profesional](docs/MichaelRobles_20250845_VPN-Fortigate-Client-To-Site-Documentacion-Tecnica-Profesional_P3.pdf)
 
 Se encuentra directamente en la siguiente ubicación:
 
 ```text
-docs/Documentacion Tecnica Profesional
+docs/MichaelRobles_20250845_VPN-Fortigate-Client-To-Site-Documentacion-Tecnica-Profesional_P3.pdf
 ```
 
 ---
@@ -166,7 +166,7 @@ El cliente VPN no tiene que usar una IP del mismo rango de PC-B. En este diseño
 VPN-Fortigate-WindowsClient-To-Site/
 ├── README.md
 ├── docs/
-│   └── MichaelRobles_20250845_VPN-Fortigate-WindowsClient-To-Site_Documentacion_Tecnica_Profesional.docx
+│   └── MichaelRobles_20250845_VPN-Fortigate-Client-To-Site-Documentacion-Tecnica-Profesional_P3.pdf
 ├── images/
 │   ├── 01_topologia_gns3.png
 │   ├── 02_fortigate_interfaces.png
@@ -473,12 +473,12 @@ La conectividad debe comprobarse con respuestas exitosas desde Windows hacia PC-
 
 La documentación completa está disponible en el siguiente enlace interno del repositorio:
 
-[Ver documentación técnica profesional](docs/Documentacion%20Tecnica%20Profesiona.pdf)
+[Ver documentación técnica profesional](docs/MichaelRobles_20250845_VPN-Fortigate-Client-To-Site-Documentacion-Tecnica-Profesional_P3.pdf)
 
 También se encuentra directamente en la siguiente ubicación:
 
 ```text
-docs/Documentacion Tecnica Profesional
+docs/MichaelRobles_20250845_VPN-Fortigate-Client-To-Site-Documentacion-Tecnica-Profesional_P3.pdf
 ```
 
 ---
@@ -488,3 +488,4 @@ docs/Documentacion Tecnica Profesional
 La VPN IPSec IKEv2 Client-To-Site fue configurada correctamente. El Windows Server pudo conectarse al FortiGate mediante FortiClient, recibió la IP virtual `10.25.84.10` y logró comunicarse con la LAN B `192.168.45.0/24`.
 
 Las evidencias muestran que el túnel `C2S_IKE` aparece activo en el FortiGate, que FortiClient muestra estado conectado, que el cliente puede hacer ping y traceroute hacia PC-B, y que PC-B también puede comunicarse con el cliente VPN. Esto confirma el funcionamiento correcto de la VPN Client-To-Site.
+
